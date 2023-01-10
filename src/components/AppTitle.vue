@@ -10,9 +10,9 @@ export default {
 
 <template>
     <h1>
-        {{ Hello }}
+        {{Hello}}
     </h1>
 </template>
 
-<style>
+<style scoped>
 </style>

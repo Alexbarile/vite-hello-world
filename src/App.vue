@@ -11,7 +11,6 @@ export default{
 </script>
 
 <template>
-  
   <AppTitle></AppTitle>
   <AppHero></AppHero>
 </template>
